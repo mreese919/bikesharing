@@ -25,3 +25,4 @@ This chart shows more clearly that a great more males use bikes and shows what d
 With these charts the stockholders would have a clearer visual on who rides these bikes, the peak hours of operations and the slower periods when the Bike Shop can perform other 
 services to diversify its business services for additional service revenues. Additional visualizations have been made that also shows bike trips mostly in tourist areas. 
 
+(https://public.tableau.com/shared/B5WDYDKQ2?:display_count=n&:origin=viz_share_link)
